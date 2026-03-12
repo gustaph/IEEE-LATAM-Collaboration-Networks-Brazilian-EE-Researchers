@@ -2,7 +2,11 @@
 
 This repository contains the datasets, notebooks, and figures associated with the paper "Concentration and Diversity in Collaboration Networks in Electrical Engineering: Evidence from Brazilian Researchers" presented at the 2026 IEEE Latin America Transactions. The study analyzes the co-authorship network of Brazilian Electrical Engineering researchers who hold CNPq productivity grants (levels 1A, 1B, 1C, 1D, and 2). Using network science metrics such as PageRank, the work identifies the most influential researchers within and across grant levels, examines intra-group and inter-group collaboration patterns, and investigates geographic and gender distributions as well as research topic trends.
 
----
+
+<p align="center">
+  <img src="imgs/graphical_abstract.png" alt="Graphical Abstract" width="80%">
+</p>
+
 
 **Manuscript ID:** IEEE LATAM Submission ID: `10313`
 
