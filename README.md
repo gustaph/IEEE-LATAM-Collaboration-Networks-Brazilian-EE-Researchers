@@ -4,13 +4,15 @@ This repository contains the datasets, notebooks, and figures associated with th
 
 ---
 
+**Manuscript ID:** IEEE LATAM Submission ID: `10313`
+
 ### **Authors**
 
-- [Fernando A. do Carmo](https://orcid.org/0000-0003-4594-5924)
-- [Gustavo S. Silva](https://orcid.org/0009-0001-1559-3465)
-- [Raimundo C. S. Freire](https://orcid.org/0000-0002-5395-7143)
-- [Antonio F. L. Jacob Jr](https://orcid.org/0000-0002-9415-7265)
-- [Fábio M. F. Lobato](https://orcid.org/0000-0002-6282-0368)
+- [Fernando A. do Carmo](https://orcid.org/0000-0003-4594-5924) - (UEMA)
+- [Gustavo S. Silva](https://orcid.org/0009-0001-1559-3465)  - (UEMA)
+- [Raimundo C. S. Freire](https://orcid.org/0000-0002-5395-7143) - (UFCG)
+- [Antonio F. L. Jacob Jr](https://orcid.org/0000-0002-9415-7265) - (UEMA)
+- [Fábio M. F. Lobato](https://orcid.org/0000-0002-6282-0368) - (UFOPA/UEMA)
 
 ---
 
